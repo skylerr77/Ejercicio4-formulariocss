@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: white;
+}
+body{
+    background-image: url("./pexels-christina-morillo-1181467.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    color: white;
+}
+div{
+    padding: 20px;
+    border: solid transparent;
+    width: 900px;
+    border-radius: 5px;
+    background-color: rebeccapurple;
+    opacity: 90%;
+    margin: auto;
+}
+.name,.correo,.edad{
+    color: white;
+}
+#nombre,#email,#edad,#select{
+    width: 100%;
+}
+span{
+    color: gray;
+}
+button{
+    color:white;
+    background-color:rgb(79, 216, 79);
+    border: green;
+
+}
+input{
+    margin: 5px ;
+}
